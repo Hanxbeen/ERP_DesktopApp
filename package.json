@@ -1,0 +1,12 @@
+{
+  "name": "erp_desktop_app",
+  "version": "1.0.0",
+  "description": "ERP",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Hanxbeen/ERP_DesktopApp.git",
+  "author": "Hanxbeen <hanxbeen@gmail.com>",
+  "license": "MIT"
+}
